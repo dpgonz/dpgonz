@@ -115,7 +115,7 @@ Credits and references used in this README:
 - [**Resume**](YOUR_RESUME_URL)
 - [**Contact**](mailto:dpg0622@stanford.edu)
 
-<a href="www.linkedin.com/in/diego-porras-gonz" target="blank">
+<a href="https://www.linkedin.com/in/diego-porras-gonz" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://github.com/dpgonz" target="blank">
