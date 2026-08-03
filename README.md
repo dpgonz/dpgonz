@@ -79,15 +79,15 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="YOUR_FOOD_ANALYSIS_REPOSITORY_URL">
-        <img src="YOUR_FOOD_ANALYSIS_IMAGE_URL"
+      <a href="https://github.com/dpgonz/mexican-food-authenticity-madrid-la">
+        <img src="/images/mexican-restaurant-review-analysis.png"
              alt="Mexican food review analysis project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Mexican Food Review Analysis</b><br/>
       <sub>Analyzed 80 hand-coded restaurant reviews to compare perceptions of Mexican food in Madrid and Los Angeles.</sub><br/>
-      🔗 <a href="YOUR_FOOD_ANALYSIS_REPOSITORY_URL">Repo</a>
+      🔗 <a href="https://github.com/dpgonz/mexican-food-authenticity-madrid-la">Repo</a>
       <br/>
       <sub>Tags: Data Analysis, Python, Statistics</sub>
     </td>
