@@ -35,8 +35,8 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="YOUR_CURVLM_REPOSITORY_URL">
-        <img src="YOUR_CURVLM_IMAGE_URL"
+      <a href="https://github.com/dpgonz/curvlm">
+        <img src="/images/synthetic-circuit.png"
              alt="CURVLM circuit understanding project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
