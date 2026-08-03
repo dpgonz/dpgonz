@@ -43,7 +43,7 @@ Credits and references used in this README:
       <br/>
       <b>CURVLM</b><br/>
       <sub>Fine-tuned a vision-language model to analyze digital circuit diagrams and produce structured visual reasoning.</sub><br/>
-      🔗 <a href="YOUR_CURVLM_REPOSITORY_URL">Repo</a>
+      🔗 <a href="https://github.com/dpgonz/curvlm">Repo</a>
       <br/>
       <sub>Tags: Computer Vision, VLMs, PyTorch</sub>
     </td>
