@@ -61,7 +61,7 @@ Credits and references used in this README:
       <sub>Tags: React, TypeScript, SPFx, Node.js</sub>
     </td>
     <td align="center" width="33%">
-      <a href="YOUR_AINARA_CASE_STUDY_URL">
+      <a href="https://github.com/dpgonz/ainara-quality-evaluator">
         <img src="YOUR_AINARA_IMAGE_URL"
              alt="AINARA educational content evaluator"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -69,7 +69,7 @@ Credits and references used in this README:
       <br/>
       <b>AINARA Quality Evaluator</b><br/>
       <sub>Built an LLM-powered agent that evaluates AI-generated educational content for quality, safety, and alignment.</sub><br/>
-      🔗 <a href="YOUR_AINARA_CASE_STUDY_URL">Case Study</a>
+      🔗 <a href="https://github.com/dpgonz/ainara-quality-evaluator">Repo</a>
       <br/>
       <sub>Tags: Generative AI, Laravel, REST APIs</sub>
     </td>
