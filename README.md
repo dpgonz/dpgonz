@@ -62,7 +62,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/dpgonz/ainara-quality-evaluator">
-        <img src="YOUR_AINARA_IMAGE_URL"
+        <img src="/images/quality-evaluator.png"
              alt="AINARA educational content evaluator"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
