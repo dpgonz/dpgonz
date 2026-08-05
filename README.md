@@ -49,7 +49,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/dpgonz/sharepoint-ai-assistant">
-        <img src="/images/sharepoint-virtual-assistant.png"
+        <img src="images/sharepoint-virtual-assistant-image.png"
              alt="SharePoint AI Assistant"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
