@@ -92,7 +92,7 @@ Credits and references used in this README:
       <sub>Tags: Data Analysis, Python, Statistics</sub>
     </td>
     <td align="center" width="50%">
-      <a href="Yhttps://github.com/dpgonz/movie-ticket-agent">
+      <a href="https://github.com/dpgonz/movie-ticket-agent">
         <img src="/images/movie-ticket-agent.png"
              alt="Movie Ticket Agent project"
              style="width:100%; height:200px; object-fit:cover;"/>
