@@ -92,15 +92,15 @@ Credits and references used in this README:
       <sub>Tags: Data Analysis, Python, Statistics</sub>
     </td>
     <td align="center" width="50%">
-      <a href="YOUR_MOVIE_AGENT_REPOSITORY_URL">
-        <img src="YOUR_MOVIE_AGENT_IMAGE_URL"
+      <a href="Yhttps://github.com/dpgonz/movie-ticket-agent">
+        <img src="/images/movie-ticket-agent.png"
              alt="Movie Ticket Agent project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Movie Ticket Agent</b><br/>
       <sub>Built an AI agent that recommends movies, remembers user preferences, searches showtimes, and manages ticket-booking actions.</sub><br/>
-      🔗 <a href="YOUR_MOVIE_AGENT_REPOSITORY_URL">Repo</a>
+      🔗 <a href="https://github.com/dpgonz/movie-ticket-agent">Repo</a>
       <br/>
       <sub>Tags: AI Agents, Tool Use, Memory</sub>
     </td>
