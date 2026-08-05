@@ -48,15 +48,15 @@ Credits and references used in this README:
       <sub>Tags: Computer Vision, VLMs, PyTorch</sub>
     </td>
     <td align="center" width="33%">
-      <a href="YOUR_SHAREPOINT_CASE_STUDY_URL">
-        <img src="YOUR_SHAREPOINT_IMAGE_URL"
-             alt="SharePoint AI Assistant case study"
+      <a href="https://github.com/dpgonz/sharepoint-ai-assistant">
+        <img src="/images/sharepoint-virtual-assistant.png"
+             alt="SharePoint AI Assistant"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>SharePoint AI Assistant</b><br/>
       <sub>Built a full-stack conversational AI interface embedded in SharePoint and connected to an enterprise AI API.</sub><br/>
-      🔗 <a href="YOUR_SHAREPOINT_CASE_STUDY_URL">Case Study</a>
+      🔗 <a href="https://github.com/dpgonz/sharepoint-ai-assistant">Repo</a>
       <br/>
       <sub>Tags: React, TypeScript, SPFx, Node.js</sub>
     </td>
