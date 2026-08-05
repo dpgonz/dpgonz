@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 👋 Diego Porras
+# Diego Porras 🐺
 **`Software Engineering Intern @ Medtronic | Stanford CS`**
 
 ## About Me
