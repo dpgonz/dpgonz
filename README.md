@@ -112,7 +112,6 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Resume**](YOUR_RESUME_URL)
 - [**Contact**](mailto:dpg0622@stanford.edu)
 
 <a href="https://www.linkedin.com/in/diego-porras-gonz" target="blank">
